@@ -42,7 +42,6 @@ Output: [2,3]
                 odd += 2;
             }
         }
-
         return nums;
     }
 }
